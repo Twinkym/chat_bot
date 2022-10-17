@@ -10,10 +10,76 @@
       <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-test-results.main" target="15" />
       <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-tmp.main" target="15" />
       <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Characters-A_capital_letter_or_a_digit.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Characters-Compare_Latin_letters.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Characters-Comparing_numbers_and_characters.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Characters-Digits_or_not.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Characters-Operations_allowed.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Characters-Previous_character.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Characters-Sequence.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Characters-The_code_of_a_character.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Characters-Theory.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Coding_style_conventions-Follow_the_conventions.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Coding_style_conventions-Make_the_code_follow_the_conventions.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Coding_style_conventions-Options_of_code_conventions.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Coding_style_conventions-Statements.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Coding_style_conventions-Statements__1_.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Coding_style_conventions-The_rules_of_coding.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Coding_style_conventions-Theory.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Coding_style_conventions-Violation.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Coding_style_conventions-Which_is_better.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Coding_style_conventions-Which_program_follows_the_conventions.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Comments-Comment_some_lines.main" target="15" />
       <module name="Simple_Chatty_Bot.Topics-Comments-Find_the_correct_comment.main" target="15" />
       <module name="Simple_Chatty_Bot.Topics-Comments-Forms_of_comments.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Comments-Hello,_Kotlin.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Comments-Incorrect_comment.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Comments-Incorrect_comments.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Comments-Printing_only_the_longest_line.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Comments-The_countdown.main" target="15" />
       <module name="Simple_Chatty_Bot.Topics-Comments-The_forgotten_comments.main" target="15" />
       <module name="Simple_Chatty_Bot.Topics-Comments-Theory.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Comments-Uncomment_some_lines.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Integers_in_action-Apple_pie.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Integers_in_action-Desks.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Integers_in_action-Divide_nuts_equally_between_squirrels.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Integers_in_action-Good_rest_on_vacation.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Integers_in_action-How_many_nuts_will_be_left_after_division.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Integers_in_action-Integer division.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Integers_in_action-Next_even_number.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Integers_in_action-Reversing_a_number.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Integers_in_action-The_first_digit_of_a_two-digit_number.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Integers_in_action-The_last_digit_of_a_number.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Integers_in_action-The_number_of_tens.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Integers_in_action-The_sum_of_digits.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Integers_in_action-Theory.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Integers_in_action-Time_difference.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Integers_in_action-Time_format.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Integers_in_action-Underscore.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Integers_in_action-Underscore__1_.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Integers_in_action-Unsigned_integers.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Ranges-At_least_one.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Ranges-Between_two_numbers.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Ranges-Check_the_value.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Ranges-Check_the_value__1_.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Ranges-Correct_statements.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Ranges-How_to_create_a_range.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Ranges-Job.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Ranges-Not_in_range.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Ranges-Theory.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Ranges-Within_a_range.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Ranges-Within_both_ranges.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Working_with_strings-Correct_operations.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Working_with_strings-Extraction_of_a_character.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Working_with_strings-Last_symbol.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Working_with_strings-N-th_symbol.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Working_with_strings-Name_Card.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Working_with_strings-Operations_and_truth.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Working_with_strings-Statements.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Working_with_strings-The_information_about_a_person.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Working_with_strings-The_number_of_tens.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Working_with_strings-The_same_line.main" target="15" />
+      <module name="Simple_Chatty_Bot.Topics-Working_with_strings-Theory.main" target="15" />
       <module name="Simple_Chatty_Bot.util.main" target="15" />
     </bytecodeTargetLevel>
   </component>
